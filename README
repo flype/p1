@@ -1,0 +1,8 @@
+ruby exercise.rb 
+Minium 3.12
+Maximun 190.0
+Mean 16.1707375934738
+Standar Deviation 18.0996204058905
+Lost Rate 0.0
+
+plus a nice plot with gnuplot
